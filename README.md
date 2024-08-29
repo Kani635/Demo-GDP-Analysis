@@ -37,8 +37,8 @@ The data was first normalized in Excel before being transformed in Power Query. 
 [Overview Dashboard]()
 ### GDP by Sector Analysis
 ![GDP by Sctor Analysis]()
-### GDP Forecast
-![Agriculture GDP Insight Analysis]()
+### Agriculture Sector Analysis and GDP Forecast
+![Agriculture GDP Insight Analysis](https://github.com/Kani635/Demo-GDP-Analysis/blob/main/images/gdp_portfolio_agric.png)
 ## Recommendation
 - Recommendation 1
 - Recommendation 2
