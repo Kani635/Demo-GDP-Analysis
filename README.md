@@ -32,13 +32,16 @@ The data was first normalized in Excel before being transformed in Power Query. 
 
 ## Dashboard Insights
 ## Overview
-- The current quarter GDP is N18.28 trillion following a 2.98% increase compared to the previous quarter.
-- asdf
+- The current quarter GDP is N18.29 trillion following a 3.19% increase compared to the previous quarter.
+- There was 0.04% increase when caomparing this quarter (Q4 2024) and same quarter last year (Q2 2023)
 [Overview Dashboard]()
+
 ### GDP by Sector Analysis
-![GDP by Sctor Analysis]()
+![GDP by Sctor Analysis](https://github.com/Kani635/Demo-GDP-Analysis/blob/main/images/gdp_portfolio_by_sector.png)
+
 ### Agriculture Sector Analysis and GDP Forecast
 ![Agriculture GDP Insight Analysis](https://github.com/Kani635/Demo-GDP-Analysis/blob/main/images/gdp_portfolio_agric.png)
+
 ## Recommendation
 - Recommendation 1
 - Recommendation 2
