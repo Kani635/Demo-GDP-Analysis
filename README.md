@@ -28,7 +28,7 @@ The Gross Domestic Product (GDP) of a country is a critical indicator of its eco
 ## Data Model
 The data was first normalized in Excel before being transformed in Power Query. The raw data was split into nominal and real GDP and the indirect tax was seperated . A date table was also created in Power Query.
 
-[Data Model]()
+[Data Model](https://github.com/Kani635/Demo-GDP-Analysis/blob/main/images/gdp_portfolio_data_model.png)
 
 ## Dashboard Insights
 ## Overview
