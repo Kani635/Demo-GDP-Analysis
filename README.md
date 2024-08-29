@@ -11,7 +11,7 @@ The Gross Domestic Product (GDP) of a country is a critical indicator of its eco
 - Provide Contextual Analysis: Offer contextual explanations for observed GDP trends and growth rates, linking economic events, climate and seasonality, and policies to their potential impacts on the GDP. 
 
 ## Tools
-- Wxcel
+- Excel
 - Power BI
   
 ## Techniques and Skills
