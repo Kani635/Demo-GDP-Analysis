@@ -28,16 +28,17 @@ The Gross Domestic Product (GDP) of a country is a critical indicator of its eco
 ## Data Model
 The data was first normalized in Excel before being transformed in Power Query. The raw data was split into nominal and real GDP and the indirect tax was seperated . A date table was also created in Power Query.
 
-[Data Model](https://github.com/Kani635/Demo-GDP-Analysis/blob/main/images/gdp_portfolio_data_model.png)
+![Data Model](https://github.com/Kani635/Demo-GDP-Analysis/blob/main/images/gdp_portfolio_data_model.png)
 
 ## Dashboard Insights
 ## Overview
 - The current quarter GDP is N18.28 trillion following a 2.98% increase compared to the previous quarter.
 - asdf
+[Overview Dashboard]()
 ### GDP by Sector Analysis
-
+![GDP by Sctor Analysis]()
 ### GDP Forecast
-
+![Agriculture GDP Insight Analysis]()
 ## Recommendation
 - Recommendation 1
 - Recommendation 2
