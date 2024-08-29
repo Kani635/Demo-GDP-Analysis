@@ -47,4 +47,4 @@ The data was first normalized in Excel before being transformed in Power Query. 
 - Recommendation 2
   
 ## Download
-<a href = Download file </a>
+<a href = "https://github.com/Kani635/Demo-GDP-Analysis/raw/main/images/GDP%20Analysis%20Dashboard%20-%20Kani.pbix"> Download file the Power BI file </a>
